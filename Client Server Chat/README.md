@@ -8,7 +8,7 @@ Tkinter is used for attractive GUI.
 
 * How to run the python files?
 
-Step 1 - First, run the client.py file and then the server.py file
+** Step 1 - First, run the client.py file and then the server.py file
 
 Step 2 - Align the GUI of both the files as shown in align.PNG image
 
