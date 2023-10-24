@@ -8,15 +8,12 @@ game3 - A game played by many of us that's stone, paper, scissor. Can you defeat
 
 Which file to run first? - Make sure you run the khel.py file.
 
-What libraries I used? - Ok so I coded these games by making use of BASIC python. No complex libraries are used. Here's a small gist of the libraries I used.
+What libraries are used? - I coded these games by making use of simple and easy libraries. Here's a small gist of libraries been used.
 
 * Tkinter - For making an attractive GUI.
 
 * Random - For generating random values in game1 and game3
 
-* PIL - For saving the painting in game2
+* PIL - For saving the scribble in game2
 
 * Winsound - For adding music
-
-Rest other libraries mentioned you can omit as they aren't used.
-
