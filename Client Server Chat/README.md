@@ -1,8 +1,7 @@
 ## A two way communication between client and server using python
 
-Hello there..
 
-I have made a two way client server chat using python.
+A two way client server chat using python.
 
 Tkinter is used for attractive GUI.
 
